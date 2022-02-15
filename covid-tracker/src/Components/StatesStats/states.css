@@ -1,0 +1,7 @@
+.states{
+    grid-column:1/2;
+    background-color: #fff;
+    border: 1px solid #eee;
+    border-radius: 4px;
+    overflow: auto;
+}
