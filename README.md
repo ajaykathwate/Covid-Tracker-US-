@@ -1,6 +1,9 @@
 # Covid-19 Tracker Website(US)
 Live Link: https://covid19-track-us.netlify.app/
 
+Open source API for getting USA Covid data:
+https://covidtracking.com/data/api
+
 
 # Getting Started with Create React App
 
